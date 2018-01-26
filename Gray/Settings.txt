@@ -1,0 +1,7 @@
+> Select Tab
+> Invert Selection
+> Hue/Saturation
+> Colorize
+	Hue: ?
+	Sat: ?
+	Lgh: ?

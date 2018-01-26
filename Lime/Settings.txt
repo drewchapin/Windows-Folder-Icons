@@ -1,0 +1,7 @@
+> Select Tab
+> Invert Selection
+> Hue/Saturation
+> Colorize
+	Hue: 72
+	Sat: 84
+	Lgh: -32
